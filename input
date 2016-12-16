@@ -1,0 +1,5 @@
+A	A,Integer.MAX_VALUE|B,10|D,5
+B	B,Integer.MAX_VALUE|C,1|D,2
+C	C,Integer.MAX_VALUE|E,4
+D	D,Integer.MAX_VALUE|B,3|C,9|E,2
+E	E,0|A,7|C,6
